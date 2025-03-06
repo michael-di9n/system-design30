@@ -61,3 +61,4 @@ Some consistance to acid
 SQL is good for critical applications with structured and consistant data
 
 NoSQL is good fo large volumes of unstructured data
+![alt text](image-2.png)
